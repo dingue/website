@@ -1,1 +1,0 @@
-particlesJS.load('particles-js', 'json\particles.json');
